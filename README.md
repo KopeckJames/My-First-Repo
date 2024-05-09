@@ -1,3 +1,1 @@
-# My-First-Repo
-
-this is the readme of my first assignment
+README.md initial commit
